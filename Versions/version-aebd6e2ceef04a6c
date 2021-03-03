@@ -2966,7 +2966,8 @@
 "gs_offset": 24,
 "setiden_syntax": 0,
 "protoobf_symbol": "-",
-"protodeobf_symbol": "+" 
+"protodeobf_symbol": "+",
+"rl_dm_inst_offset":12
 }
 }
 
