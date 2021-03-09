@@ -2783,7 +2783,7 @@
          "typedef":"int"
       },
       "sandboxthread":{
-         "addr":8025888,
+         "addr":7961376,
          "ccv":"__cdecl",
          "retcheck":false,
          "isapartoflua":false,
