@@ -2937,7 +2937,8 @@
 "ls_ci":  16,
 "ls_saved_pc":  16,
 "ls_top":  20,
-"ls_base":  28
+"ls_base":  28,
+"ls_inst_offset": 12
 },
 "globalstate_offsets": {
 "ls_gs_totalbytes":  76,
