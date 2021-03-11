@@ -2984,7 +2984,7 @@
 "extras": {
 "ls_offset": 188,
 "ls_symbol": "-",
-"ls_syntax": 1,
+"ls_syntax": 0,
 "gs_symbol": "-",
 "gs_offset": 8,
 "setiden_syntax": 0,
